@@ -1,0 +1,23 @@
+# Python virtual envs
+.venv/
+venv/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS junk
+.DS_Store
+
+# Jupyter / checkpoints
+.ipynb_checkpoints/
+
+# Results that can be regenerated
+results/artifacts/
+results/metrics/*.json
+
+# Other tooling caches
+*.log
+*.tmp
