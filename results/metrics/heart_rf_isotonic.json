@@ -1,0 +1,9 @@
+{
+  "avg_precision": 0.953029451027723,
+  "brier": 0.09194495512385167,
+  "dataset": "heart",
+  "model": "rf",
+  "n_test": 60,
+  "roc_auc": 0.9575892857142857,
+  "variant": "isotonic"
+}

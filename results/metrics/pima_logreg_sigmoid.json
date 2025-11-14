@@ -1,0 +1,9 @@
+{
+  "avg_precision": 0.6719675586329401,
+  "brier": 0.1725956194039252,
+  "dataset": "pima",
+  "model": "logreg",
+  "n_test": 154,
+  "roc_auc": 0.812037037037037,
+  "variant": "sigmoid"
+}

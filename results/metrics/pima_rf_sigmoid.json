@@ -1,0 +1,9 @@
+{
+  "avg_precision": 0.7092006809061884,
+  "brier": 0.1640914164887878,
+  "dataset": "pima",
+  "model": "rf",
+  "n_test": 154,
+  "roc_auc": 0.8216666666666667,
+  "variant": "sigmoid"
+}

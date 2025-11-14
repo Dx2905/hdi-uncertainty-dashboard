@@ -1,0 +1,9 @@
+{
+  "avg_precision": 0.9771014745152676,
+  "brier": 0.06743885985863735,
+  "dataset": "heart",
+  "model": "logreg",
+  "n_test": 60,
+  "roc_auc": 0.9732142857142857,
+  "variant": "base"
+}

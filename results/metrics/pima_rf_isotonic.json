@@ -1,0 +1,9 @@
+{
+  "avg_precision": 0.6977763734757415,
+  "brier": 0.16356482500472386,
+  "dataset": "pima",
+  "model": "rf",
+  "n_test": 154,
+  "roc_auc": 0.8215740740740741,
+  "variant": "isotonic"
+}
